@@ -1,0 +1,13 @@
+-animal:
+- name: murcielago
+  type: cow
+- name: gallardo
+  type: cow
+- name: tweety
+  type: bird
+- name: psyduck
+  type: bird
+- name: viper
+  type: snake
+- name: cobra
+  type: snake
